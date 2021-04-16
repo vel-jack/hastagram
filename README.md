@@ -1,16 +1,27 @@
-# hastagram
+## Hashtagram
 
-A new Flutter project.
+Using this application you can easily view top/new images and videos of Instagram hashtags.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![screenshot](https://github.com/vel-jack/nothingbox/raw/master/sampledata/image867.png)
 
-A few resources to get you started if this is your first Flutter project:
+- Support Cached images. So you can view loaded images when you are in offline.
+- Save posts inside  your app.
+- Get the link to your clipboard with single tap.
+- Switch to top and new posts easily.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Plugins used:**
+- [hive](https://pub.dev/packages/hive) (To save the post data)
+- [chewie](https://pub.dev/packages/chewie) (External video player plugin)
+- [http](https://pub.dev/packages/http) (To fetch the data from the instagram)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+_*internet permission required_
+
+Get it on  [google play](https://play.google.com/store/apps/details?id=com.emptybox.hastagram)
+
+![icon](https://play-lh.googleusercontent.com/xbZkPyd3Nblz1snQ9a81M74-BRiXXapmDz0CQ1y4X7Kx40UtOmAi9w2uVlVDDmE5cA=s40)\
+Watch Hashtagram Demo Video on youtube\
+[![Hashtagram](https://img.youtube.com/vi/yO-PCiKna44/0.jpg)](https://www.youtube.com/watch?v=yO-PCiKna44)
+
+
+[privacy policy](https://vel-jack.github.io/nothingbox/policy/hashtagram)
